@@ -14,7 +14,7 @@
 $(document).ready(function() {
 	// Set the custom URL of the group you want peoplen to be invited to. Do not enter the entire URL.
 	// For example: Your group URL is http://steamcommunity.com/groups/steamIsCool, enter steamIsCool in "", replacing customURL.
-	sagi.execute("customURL");
+	sagi.execute("XEazure");
 });
 
 var sagi = new function() {
